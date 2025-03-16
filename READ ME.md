@@ -3,7 +3,7 @@ Hi there!  I'm SHUBHAM KUMAR
 I'm Interested in Web and Software Development.
 
 * I'm Currently Working on HTML, CSS & JavaScript.
-* I'm looking to collaborate on building communitites, and do projects in Web and Software Development Fields.
+* I'm looking to collaborate on building communities, and do projects in Web and Software Development Fields.
 * Ask me about anything
 * How to Reach me: shubhamsingaa@gmail.com
 * Fun fact I like to drive bikes and explore different places & Cultures.
